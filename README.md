@@ -16,4 +16,4 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ⌨️ Sobre o projeto
 
-O projeto consiste no famoso game - jogo da velha - feito em js, feito para dois jogadores. O mesmo foi desenvolvido durante o curso da [B7Web](https://b7web.com.br/fullstack/?ref=I24108426I) e com a ajuda do instrutor [Bonieky Lacerda](https://www.instagram.com/bonieky/).
+O projeto consiste no famoso game - jogo da velha - feito em js, para dois jogadores. O mesmo foi desenvolvido durante o curso da [B7Web](https://b7web.com.br/fullstack/?ref=I24108426I) e com a ajuda do instrutor [Bonieky Lacerda](https://www.instagram.com/bonieky/).
