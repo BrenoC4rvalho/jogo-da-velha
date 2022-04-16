@@ -10,9 +10,9 @@
 ## 🧑‍💻 Tecnologias usadas
 
 O projeto foi desenvolvido com as seguintes tecnologias:
--[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
--[HTML](https://www.w3schools.com/html/)
--[CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
 
 ## ⌨️ Sobre o projeto
 
